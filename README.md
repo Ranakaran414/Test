@@ -1,2 +1,3 @@
 # Test
-THis is a test repo
+THis is a test repo.
+Author: karan Rana
